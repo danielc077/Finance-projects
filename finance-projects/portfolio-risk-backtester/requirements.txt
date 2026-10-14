@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+matplotlib
+pytest
+yfinance   # optional: live data; falls back to synthetic data if unavailable
